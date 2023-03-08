@@ -1,4 +1,3 @@
-import images from './images';
 
 const clothes = [
   {
@@ -46,6 +45,9 @@ const accessories = [
   },
 ];
 
+const data = {
+  clothes,
+  accessories,
+};
 
-
-export default { clothes, accessories };
+export default data;

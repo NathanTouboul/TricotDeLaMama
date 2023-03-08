@@ -14,7 +14,7 @@ import navBarLogo from '../assets/navBarLogo.png';
 import knitting from '../assets/knitting.png'
 import clothe from '../assets/clothe.jpg'
 
-export default {
+const images = {
   bg,
   laMama,
   M,
@@ -29,4 +29,6 @@ export default {
   sign,
   quote,
   navBarLogo,
-}
+};
+
+export default images;
