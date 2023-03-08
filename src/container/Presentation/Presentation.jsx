@@ -8,7 +8,7 @@ const Presentation = () => (
   <div className='app__bg app__wrapper section__padding'>
     
     <div className='app__wrapper_img app__wrapper_img-reverse'>
-      <img src={images.laMama} alt='mama'></img>
+      {/* <img src={images.laMama} alt='mama'></img> */}
     </div>
 
     <div className='app_wrapper_info'>
