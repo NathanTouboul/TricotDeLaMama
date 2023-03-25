@@ -46,7 +46,7 @@ const Options = () => (
     </div>
   
     <div style={{marginTop: "15px"}}>
-      <button type='button' className='custom__button'> Petit button</button>
+      <button type='button' className='custom__button' > <a href='#gallery'>Gallery</a> </button>
     </div>
   </div>  
 );

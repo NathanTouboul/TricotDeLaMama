@@ -15,7 +15,6 @@ const AboutUs = () => (
         <h1 className='headtext__cormorant'> La petite histoire </h1>
         <img src={images.needle} style={{width: '50px'}} alt = 'about_needle'></img>
         <p className='p__opensans'> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, </p>
-        <button type='button' className='custom__button'>Know more</button>
       </div>
     
       <div className='app__aboutus-content_wool flex__center'>
@@ -26,7 +25,6 @@ const AboutUs = () => (
         <h1 className='headtext__cormorant'> L'art du crochet</h1>
         <img src={images.needle} style={{width: '50px'}} alt = 'history_needle'></img>
         <p className='p__opensans'>  Le createur de ce site n'y connait rien, mais petard c'est joli!</p>
-        <button type='button' className='custom__button'>Know more</button>
       </div>
     
     </div>

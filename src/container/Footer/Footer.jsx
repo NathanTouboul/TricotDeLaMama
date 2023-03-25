@@ -15,7 +15,7 @@ const Footer = () => {
       <div className='app__footer-links'>
         <div className='app__footer-links_contact'>
           <h1 className='app__footer-headtext'>Contactez nous</h1>
-          <p className='p__opensans'>06 25 20 45 06</p>
+          <p className='p__opensans'></p>
           <p className='p__opensans'>micheletouboul@club-internet.fr</p>
         </div>
         <div className='app__footer-links_logo'>

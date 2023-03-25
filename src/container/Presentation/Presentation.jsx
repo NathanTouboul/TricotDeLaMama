@@ -26,7 +26,7 @@ const Presentation = () => (
     
         <div className='app__presentation-sign'>
           <p>Michele Touboul</p>
-          <p className='p__opensans'>Couturiere | la Mama</p>
+          <p className='p__opensans'>Couturiere | La Mama</p>
           <img src={images.sign} alt='sign'></img>
         </div>
 

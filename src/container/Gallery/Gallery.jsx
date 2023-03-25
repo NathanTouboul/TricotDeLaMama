@@ -6,7 +6,14 @@ import {SubHeading} from '../../components';
 import {images} from '../../constants';
 import './Gallery.css';
 
-const galleryImages = [images.pullWhite, images.bagPink, images.gallery01, images.gallery02];
+const galleryImages = [
+  images.pullWhite,
+  images.bagBlack,
+  images.head1,
+  images.bagPink, 
+  images.bagRed,
+  images.head2,
+  ];
 
 const Gallery = () => {
   
@@ -24,7 +31,7 @@ const Gallery = () => {
     <div className='app__gallery flex__center' id='gallery'>
 
       <div className='app__gallery-content'>
-        <SubHeading title='Bientôt un Instagram'> </SubHeading>
+        <SubHeading title='De nombreuses options'> </SubHeading>
         <h1 className='headtext__cormorant'> Photo Gallery </h1>
         <p className='p__opensans' style =  {{color: '#AAA', marginTop: '2rem'}}> De magnifiques vêtements et accessoires fait main. </p>
         <button type='button' className='custom__button'> Lien vers l'instagram </button>

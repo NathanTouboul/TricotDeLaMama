@@ -1,31 +1,32 @@
 import bg from '../assets/bg.png';
-import laMama from '../assets/laMama.jpg';
 import M from '../assets/M.png';
 import pullWhite from '../assets/pull-white.png';
 import bagPink from '../assets/bag-pink.png';
-import gallery01 from '../assets/gallery01.png';
-import gallery02 from '../assets/gallery02.png';
+import bagBlack from '../assets/bag-black-white.png';
+import bagRed from '../assets/bag-red-white.png';
+import head1 from '../assets/head1.png';
+import head2 from '../assets/head2.png';
 import needle from '../assets/needle.png';
-import wedding from '../assets/wedding.jpg';
-
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import navBarLogo from '../assets/navBarLogo.png';
 import knitting from '../assets/knitting.png'
+import knittingMom from '../assets/knitting-mom.png'
 import clothe from '../assets/clothe.jpg'
 
 const images = {
   bg,
-  laMama,
   M,
   pullWhite, 
   bagPink,
-  gallery01, 
-  gallery02,
+  bagBlack,
+  bagRed,
+  head1,
+  head2,
   knitting,
+  knittingMom,
   clothe,
   needle,
-  wedding,
   sign,
   quote,
   navBarLogo,
